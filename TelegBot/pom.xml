@@ -1,3 +1,4 @@
+
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 
          xmlns="http://maven.apache.org/POM/4.0.0"
@@ -80,7 +81,7 @@
         <outputDirectory>../target/classes</outputDirectory>
         <finalName>${project.artifactId}-${project.version}</finalName>
         <testOutputDirectory>${project.build.directory}/test-classes</testOutputDirectory>
-        <sourceDirectory>main/java</sourceDirectory>
+        <sourceDirectory>src/main/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
