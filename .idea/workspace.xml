@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a2e6787-2ec4-4d12-8069-b9d3fb749d07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teleg/Teleg.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teleg/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teleg/src/main/java/ChatBot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teleg/src/main/java/ChatBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/TelegBot/src/main/java/ChatBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teleg/src/main/java/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teleg/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TelegBot/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TelegBot/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,11 +15,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TelegBot/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="1" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TelegBot/src/main/java/ChatBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="121">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#setButtons#0;class#ChatBot#0" />
                 <element signature="method#message#0;class#ChatBot#0" />
                 <element signature="method#SendMessage#0;class#ChatBot#0" />
@@ -38,7 +42,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TelegBot/pom.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1465">
               <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
@@ -46,8 +50,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TelegBot/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-230" />
           </provider>
@@ -121,11 +125,6 @@
               <item name="TelegramBot_20" type="b2602c69:ProjectViewProjectNode" />
               <item name="FullProgects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TelegramBot_20" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FullProgects" type="462c0819:PsiDirectoryNode" />
-              <item name="TelegBot" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -136,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547549493628" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547549657660" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,9 +146,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vladyslav\FullProgects\TelegBot" />
+      <recent name="C:\Users\Vladyslav\FullProgects" />
+      <recent name="C:\Users\Vladyslav\FullProgects\TelegBot\src" />
       <recent name="C:\Users\Vladyslav\FullProgects\Teleg\src\main\java" />
       <recent name="C:\Users\Vladyslav\FullProgects\Teleg" />
-      <recent name="C:\Users\Vladyslav\FullProgects\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,7 +191,7 @@
       <workItem from="1547393036680" duration="368000" />
       <workItem from="1547468598178" duration="17750000" />
       <workItem from="1547540419250" duration="2521000" />
-      <workItem from="1547544187447" duration="3226000" />
+      <workItem from="1547544187447" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1547549154203</created>
@@ -206,11 +207,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547549348696</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <created>1547549559206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547549559206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ok">
+      <created>1547549634650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547549634650</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23865000" />
+    <option name="totallyTimeSpent" value="24171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -298,16 +313,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Execute.java" />
-    <entry file="file://$PROJECT_DIR$/TelegBot/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -322,28 +327,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TelegBot/pom.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1465">
           <caret line="148" column="20" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TelegBot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TelegBot/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="1" selection-start-line="7" selection-start-column="7" selection-end-line="8" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TelegBot/src/main/java/ChatBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="121">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#setButtons#0;class#ChatBot#0" />
             <element signature="method#message#0;class#ChatBot#0" />
             <element signature="method#SendMessage#0;class#ChatBot#0" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230" />
       </provider>
     </entry>
   </component>
@@ -398,7 +414,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>FullProgects</last-edited>
+          <last-edited>telegrambotsextensions</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
